@@ -1,0 +1,4 @@
+services:
+  pythoncontainer:
+    build: ./
+    command: python3 ./TalanaKombat.py
